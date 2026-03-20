@@ -1,0 +1,51 @@
+
+================================================================================
+KEY FINDINGS: The Green-Health Paradox
+================================================================================
+
+EXECUTIVE SUMMARY:
+Analysis of 4,522 food products from the Global Food & Nutrition Database,
+classified by Nutri-Score (nutritional quality), Eco-Score (environmental impact),
+NOVA group (processing level), and dietary type (Vegan/Vegetarian/Omnivore).
+
+--- BUSINESS QUESTION 1 ---
+"Is eating green the same as eating healthy?"
+
+ANSWER: NOT NECESSARILY. Being environmentally sustainable and being nutritionally
+healthy are two different dimensions that don't always align. Our quadrant analysis
+reveals that a significant share of products fall into paradox zones — either
+"Green but Not Healthy" or "Healthy but Not Green." This means consumers and 
+policymakers cannot assume that eco-friendly labels guarantee good nutrition.
+
+--- BUSINESS QUESTION 2 ---
+"Are vegan products healthier and greener than non-vegan alternatives?"
+
+ANSWER: GREENER YES, HEALTHIER — IT DEPENDS. Vegan products score significantly
+better on Eco-Score (62% rated A/B vs. 9% for omnivore).
+However, 54% of vegan products are ultra-processed (NOVA 4),
+meaning many vegan options achieve their plant-based status through heavy industrial
+processing. The "health halo" around vegan foods doesn't always hold.
+
+--- BUSINESS QUESTION 3 ---
+"Does processing level explain the gap between sustainability and nutrition?"
+
+ANSWER: YES — NOVA GROUP IS THE HIDDEN VARIABLE. Ultra-processed foods (NOVA 4)
+cluster disproportionately in the worst Nutri-Score grades (D and E), regardless
+of whether they're vegan or not. Meanwhile, minimally processed foods (NOVA 1)
+dominate the best Nutri-Score grades. Processing level is the strongest predictor
+of nutritional quality, and it cross-cuts dietary type.
+
+--- PARADOX IN NUMBERS ---
+  Products analyzed:              4,522
+  Vegan ultra-processed rate:     54.3%
+  Omnivore ultra-processed rate:  36.0%
+  Vegan Eco-Score A/B rate:       62.0%
+  Omnivore Eco-Score A/B rate:    9.5%
+
+ACTIONABLE RECOMMENDATIONS:
+  → Consumers: "Vegan" is not a shortcut for "healthy" — check NOVA group
+  → Food industry: Eco-labeling should be paired with processing transparency
+  → Policymakers: Nutri-Score and Eco-Score should be displayed together
+  → Retailers: Curate "Win-Win" product sections (high Nutri + high Eco)
+  → Health tech: Build recommendation engines that optimize BOTH dimensions
+================================================================================
