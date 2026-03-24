@@ -114,6 +114,7 @@ Download the .pbix file from the `dashboard/` folder to explore interactively.
 
 - **Python**: Pandas (multi-dataset loading, custom classification logic, crosstabs, quantile-based segmentation), Seaborn, Matplotlib
 - **SQL**: CTEs, window functions (RANK, ROW_NUMBER), CASE expressions, cross-tabulations, CROSS JOIN for dynamic thresholds
+- **Power BI**: Interactive dashboard with DAX measures, scatter plot visualization, stacked bar charts, dropdown slicers, custom sort columns
 - **Analytics**: Quadrant analysis, paradox identification, dietary type comparison, nutritional profiling, processing-level stratification
 - **Data Cleaning**: Score standardization, categorical encoding, outlier capping, dietary classification from allergen flags
 - **Storytelling**: Three executive-level business questions answered with data-driven evidence
