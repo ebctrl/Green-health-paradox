@@ -103,6 +103,13 @@ the-green-health-paradox/
 |:---:|:---:|
 | ![Paradox](visualizations/05_paradox_quadrants.png) | ![Heatmap](visualizations/07_nova_nutriscore_heatmap.png) |
 
+## Interactive Dashboard (Power BI)
+
+Built an interactive Power BI dashboard with slicers for Dietary Type, NOVA Group, and Category.
+Download the .pbix file from the `dashboard/` folder to explore interactively.
+
+![Dashboard Preview](dashboard/dashboard_preview.png)
+
 ## Skills Demonstrated
 
 - **Python**: Pandas (multi-dataset loading, custom classification logic, crosstabs, quantile-based segmentation), Seaborn, Matplotlib
